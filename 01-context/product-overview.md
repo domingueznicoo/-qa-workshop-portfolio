@@ -6,12 +6,19 @@ El producto es un ecommerce enfocada a la venta de productos relacionadas a anim
 ## ¿Qué problema resuelve?
 Resuelve la compra de productos relacionados a animales, de manera online, ademas de tener en catalogos todos los productos
 ## ¿Cómo genera valor para el negocio?
-Aumenta las ventas al disponibilizar una tienda online mediante una pagina web, mejora la experiencia del usuario con navegación por categorías
+El sistema genera valor al negocio mediante:
+-Incremento de ventas al ofrecer un canal digital disponible 24/7
+-Mejora de la experiencia del cliente al simplificar el proceso de compra
+-Reducción de costos operativos al automatizar el proceso de venta
+-Escalabilidad, permitiendo atender a múltiples clientes simultáneamente sin necesidad de aumentar infraestructura física
+-Captura de datos de comportamiento del usuario, lo que permite mejorar estrategias comerciales y de marketing
 ## Usuarios principales
-- admin
-- cliente
+-Cliente final (comprador de productos)
+-Administrador del sistema (gestión de productos, pedidos, usuarios)
+-Visitante (usuario no autenticado que navega el catálogo)
 
 ## Funcionalidades principales
-- Búsqueda de productos por categorías
-- Registro e inicio de sesión de usuarios
-- Proceso de compra (checkout)
+-Navegación y búsqueda de productos por categorías
+-Registro y autenticación de usuarios
+-Gestión del carrito de compras (agregar, eliminar, modificar productos)
+-Proceso de checkout y pago de pedidos
